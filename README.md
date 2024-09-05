@@ -1,5 +1,5 @@
 # Why data collection and database construction
-Why data collection and database construction
+Why data collection and database construction!
 
 ## 데이터 수집
 포스터의 저작권을 위해 공연 정보와 포스터 이미지가 필요했기 때문에 KOPIS의 OPEN API를 사용해 최근 11년간의 공연 정보를 수집했습니다.
